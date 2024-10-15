@@ -19,8 +19,8 @@
     "estraverse": "^4.2.0",
     "glob": "^7.1.1",
     "jsdoc": "^3.4.2",
-    "minimist": "^1.2.0",
-    "semver": "^5.5.0",
+    "minimist": "^1.2.6",
+    "semver": "^5.7.2",
     "tmp": "0.0.33",
     "uglify-js": "^2.8.15"
   }
